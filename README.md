@@ -1,4 +1,4 @@
-![Developer × Researcher: Building production-grade AI Assurance](assets/banner.png)
+![Developer × Researcher: Building production-grade AI Assurance](assets/gitprofile_banner.png)
 
 # Kavita Jadhav
 
