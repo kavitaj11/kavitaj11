@@ -32,9 +32,9 @@ I design and build evaluation and automation systems that move beyond *“does i
     *Data modeling + normalization + scalable DB design from flat datasets.*
 
 - **Modern UI Automation**
-  - 🔗 **Playwright Practice Code**  
-    https://github.com/kavitaj11/playwright-ai-practice-code  
-    *Playwright-based automation experiments and patterns.*
+  - 🔗 **AI-Powered Playwright Python Framework** *(Under Development)*  
+    *A research-driven Playwright + PyTest framework augmented with AI-assisted testing (test generation, self-healing locators, intelligent assertions) and optional LLM evaluation hooks for AI-enabled workflows.*
+
 
 ---
 
