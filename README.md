@@ -1,3 +1,5 @@
+![Developer × Researcher: Building production-grade AI Assurance](assets/banner.png)
+
 # Kavita Jadhav
 
 **Trustworthy AI • LLM Testing • Full-Stack Automation**
