@@ -12,11 +12,11 @@ I design and build evaluation and automation systems that move beyond *“does i
 ## Start here (projects)
 
 - **LLM Testing Hub**  
-  🔗 https://github.com/K11-Software-Solutions/llm-testing-hub  
+  - 🔗 https://github.com/K11-Software-Solutions/llm-testing-hub  
   *A practical research hub for LLM assurance—evaluation harnesses, regression suites, red-teaming scenarios, and reliability scorecards for repeatable, audit-ready testing.*
 
 - **Enterprise Test Automation Frameworks**
-  🔗 https://github.com/K11-Software-Solutions/k11TechLab-selenium-java-fullstack-framework  
+  - 🔗 https://github.com/K11-Software-Solutions/k11TechLab-selenium-java-fullstack-framework  
   *Selenium + Java full-stack automation with modular architecture, reporting, and enterprise-friendly execution patterns.*
 
   🔗 https://github.com/K11-Software-Solutions/k11TechLab-cucumber-bdd-java-fullstack-framework  
