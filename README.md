@@ -9,7 +9,7 @@ I design and build evaluation and automation systems that move beyond *“does i
 
 ---
 
-## Start here (projects)
+## Start here (research + build artifacts)
 
 - **LLM Testing Hub**  
   - 🔗 https://github.com/K11-Software-Solutions/llm-testing-hub  
@@ -40,12 +40,23 @@ I design and build evaluation and automation systems that move beyond *“does i
 
 ## Research interests
 
-My current research focuses on **AI assurance for LLM-enabled systems**, including:
+My current interests focus on **reliability, safety, and governance-aligned evaluation** for LLM-enabled systems:
 
-- **LLM evaluation & benchmarking:** reproducible harnesses, multi-model comparisons, metric design, regression protocols  
-- **AI red teaming & safety testing:** prompt injection, jailbreak resilience, adversarial formatting/obfuscation, privacy/PII leakage  
-- **Robustness & reliability:** hallucination patterns, prompt sensitivity, context-window limits, drift detection, stability under distribution shift  
-- **Evaluation in CI/CD:** automated gates, audit-ready artifacts, reliability scorecards, traceability for production systems  
+- **LLM evaluation methodology & benchmarking**
+  - Reproducible harness design, multi-model comparisons, metric selection, regression protocols  
+- **Failure mode characterization**
+  - Hallucination patterns, prompt sensitivity, bias/fairness gaps, context-window limits, behavioral drift  
+- **Adversarial testing & red teaming**
+  - Prompt injection, jailbreak resilience, adversarial formatting/obfuscation, privacy/PII leakage, unsafe content pathways  
+- **Robustness & production monitoring**
+  - Drift detection signals, stability under distribution shift, reliability scorecards, audit-friendly evidence trails  
+- **Evaluation in CI/CD**
+  - Automated quality gates, traceable results, compliance-aligned test suites, reproducible reporting  
+- **AI integration in legacy test automation frameworks**
+  - Adding AI-assisted capabilities to existing Selenium/BDD/API frameworks (test generation, self-healing, intelligent assertions, flaky-test reduction) while maintaining determinism, traceability, and maintainable architecture  
+- **AI application development & end-to-end validation**
+  - Building and testing AI-enabled applications (RAG, agents/tool use, MCP-based integrations), with emphasis on observability, data/privacy controls, and evaluation-driven development
+  
 
 ---
 
