@@ -17,10 +17,10 @@ I design and build evaluation and automation systems that move beyond *“does i
 
 - **Enterprise Test Automation Frameworks**
   - 🔗 https://github.com/K11-Software-Solutions/k11TechLab-selenium-java-fullstack-framework  
-  *Selenium + Java full-stack automation with modular architecture, reporting, and enterprise-friendly execution patterns.*
+*Selenium + Java full-stack automation framework emphasizing modular design, reporting, and repeatable execution patterns for enterprise delivery—extended with **AI-assisted testing** and **AI integration** patterns (e.g., prompt-driven test generation, self-healing strategies, and evaluation hooks for AI/LLM-enabled workflows).*
 
-  🔗 https://github.com/K11-Software-Solutions/k11TechLab-cucumber-bdd-java-fullstack-framework  
-  *Cucumber BDD framework for scalable automation across UI + API workflows, built for CI/CD and long-term maintainability.*
+  - 🔗 https://github.com/K11-Software-Solutions/k11TechLab-cucumber-bdd-java-fullstack-framework  
+  *Cucumber BDD framework for scalable automation across UI + API+ Mobile Apps workflows, built for CI/CD and long-term maintainability.*
 
 - **Full-Stack Engineering (Portfolio apps)**
   - 🔗 **Apollonia Dental Practice – Employee Management CRUD Web App**  
