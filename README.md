@@ -31,16 +31,17 @@ I design and build evaluation and automation systems that move beyond *“does i
 
 
 - **Full-Stack Engineering (Portfolio apps)**
-  - **Full-Stack Development (Capstone)**
-    🔗 https://github.com/kavitaj11/xrwvm-fullstack_developer_capstone  
+  
+ - **Full-Stack Development (Capstone)**
+   -🔗 https://github.com/kavitaj11/xrwvm-fullstack_developer_capstone  
     *Full-stack capstone project demonstrating end-to-end delivery (app development, API integration, and deployment-ready structure).*
 
  - **Apollonia Dental Practice – Employee Management CRUD Web App**  
-    🔗 https://github.com/kavitaj11/apollonia-dental-practice-employee-management-system-CRUD-web-app  
+   -🔗 https://github.com/kavitaj11/apollonia-dental-practice-employee-management-system-CRUD-web-app  
     *Full-stack CRUD application demonstrating end-to-end delivery.*
 
  - **Greenspot Grocer – Relational Database Transformation Project**  
-    🔗 https://github.com/kavitaj11/greenspot-grocery-portfolio-database-project  
+   -🔗 https://github.com/kavitaj11/greenspot-grocery-portfolio-database-project  
     *Data modeling + normalization + scalable DB design from flat datasets.*
 
 
