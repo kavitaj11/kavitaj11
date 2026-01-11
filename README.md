@@ -17,25 +17,31 @@ I design and build evaluation and automation systems that move beyond *“does i
   - 🔗 https://github.com/K11-Software-Solutions/llm-testing-hub  
   *A practical research hub for LLM assurance—evaluation harnesses, regression suites, red-teaming scenarios, and reliability scorecards for repeatable, audit-ready testing.*
 
+- **AI Assurance (Promptfoo)**
+  - 🔗 https://github.com/kavitaj11/weoptimize.ai_assurance_promptfoo  
+  *Promptfoo-based AI assurance suite for LLM evaluation, regression testing, red-teaming scenarios, and audit-ready reporting.*
+
+
 - **Enterprise Test Automation Frameworks**
   - 🔗 https://github.com/K11-Software-Solutions/k11TechLab-selenium-java-fullstack-framework  
-*Selenium + Java full-stack automation framework emphasizing modular design, reporting, and repeatable execution patterns for enterprise delivery—extended with **AI-assisted testing** and **AI integration** patterns (e.g., prompt-driven test generation, self-healing strategies, and evaluation hooks for AI/LLM-enabled workflows).*
+  *Selenium + Java full-stack automation framework emphasizing modular design, reporting, and repeatable execution patterns for enterprise delivery—extended with **AI-assisted testing** and **AI integration** patterns (e.g., prompt-driven test generation, self-healing strategies, and evaluation hooks for AI/LLM-enabled    workflows).*
 
-  - 🔗 https://github.com/K11-Software-Solutions/k11TechLab-cucumber-bdd-java-fullstack-framework  
-  *Cucumber BDD framework for scalable automation across UI + API+ Mobile Apps workflows, built for CI/CD and long-term maintainability.*
+ - 🔗 https://github.com/K11-Software-Solutions/k11TechLab-cucumber-bdd-java-fullstack-framework  
+   *Cucumber BDD framework for scalable automation across UI + API+ Mobile Apps workflows, built for CI/CD and long-term maintainability.*
+
 
 - **Full-Stack Engineering (Portfolio apps)**
-  - 🔗 **Apollonia Dental Practice – Employee Management CRUD Web App**  
-    https://github.com/kavitaj11/apollonia-dental-practice-employee-management-system-CRUD-web-app  
+  - **Full-Stack Development (Capstone)**
+    🔗 https://github.com/kavitaj11/xrwvm-fullstack_developer_capstone  
+    *Full-stack capstone project demonstrating end-to-end delivery (app development, API integration, and deployment-ready structure).*
+
+ - **Apollonia Dental Practice – Employee Management CRUD Web App**  
+    🔗 https://github.com/kavitaj11/apollonia-dental-practice-employee-management-system-CRUD-web-app  
     *Full-stack CRUD application demonstrating end-to-end delivery.*
 
-  - 🔗 **Greenspot Grocer – Relational Database Transformation Project**  
-    https://github.com/kavitaj11/greenspot-grocery-portfolio-database-project  
+ - **Greenspot Grocer – Relational Database Transformation Project**  
+    🔗 https://github.com/kavitaj11/greenspot-grocery-portfolio-database-project  
     *Data modeling + normalization + scalable DB design from flat datasets.*
-
-- **Modern UI Automation**
-  - 🔗 **AI-Powered Playwright Python Framework** *(Under Development)*  
-    *A research-driven Playwright + PyTest framework augmented with AI-assisted testing (test generation, self-healing locators, intelligent assertions) and optional LLM evaluation hooks for AI-enabled workflows.*
 
 
 ---
