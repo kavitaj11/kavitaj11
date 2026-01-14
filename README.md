@@ -27,7 +27,7 @@ I design and build evaluation and automation systems that move beyond *“does i
   🔗 https://github.com/K11-Software-Solutions/k11TechLab-selenium-java-fullstack-framework  
   *Enterprise automation framework emphasizing modular design, reporting, and repeatable execution—extended with AI-assisted testing and AI integration patterns (prompt-driven test generation, self-healing strategies, and evaluation hooks for AI/LLM-enabled workflows).*
 
-- **K11 TechLab — Cucumber BDD + Java Full-Stack Framework**  
+- **K11 Tech Lab — Cucumber BDD + Java Full-Stack Framework**  
   🔗 https://github.com/K11-Software-Solutions/k11TechLab-cucumber-bdd-java-fullstack-framework  
   *BDD framework for scalable automation across UI + API + Mobile workflows, built for CI/CD and long-term maintainability.*
 
@@ -49,6 +49,14 @@ I design and build evaluation and automation systems that move beyond *“does i
   🔗 https://github.com/kavitaj11/greenspot-grocery-portfolio-database-project  
   *Data modeling, normalization, and scalable database design from flat datasets.*
 
+- **Rumi Press — Book Distribution Expense Tracker (Django)**  
+  🔗 https://github.com/kavitaj11/django_based_rumi_press_book_distribution_expense_tracker  
+  *Django-based expense tracking app for book distribution workflows, supporting structured record management, reporting-friendly data organization, and deployment-ready project setup.*
+
+
+- **Euro Orbit Travel Agency — 7-Day Weather Forecast App**  
+  🔗 https://github.com/kavitaj11/euro-orbit-travel-agency-7-day-weather-forecast-app  
+  *Weather forecast application providing a 7-day view with API-driven data fetching, user-friendly UI, and deployment-ready structure.*
 
 ---
 
