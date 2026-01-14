@@ -32,6 +32,11 @@ I design and build evaluation and automation systems that move beyond *“does i
   *BDD framework for scalable automation across UI + API + Mobile workflows, built for CI/CD and long-term maintainability.*
 
 ### Full-Stack Engineering (portfolio)
+- **Kavita Jadhav — AI Developer Portfolio (Gemini + Cloud Run)**  
+  🔗 https://github.com/kavitaj11/kavita-jadhav-ai-developer-portfolio  
+  *AI-powered portfolio showcasing full-stack engineering with a Gemini-backed chat experience, secure key handling via backend proxy, Dockerized deployment, and Google Cloud Run production hosting.*  
+  *Walkthrough:* https://dev.to/kavitaj11/ai-powered-portfolio-full-stack-developer-showcase-with-google-gemini-cloud-run-2aaj
+
 - **Full-Stack Developer Capstone**  
   🔗 https://github.com/kavitaj11/xrwvm-fullstack_developer_capstone  
   *End-to-end full-stack delivery demonstrating application development, API integration, and deployment-ready structure.*
