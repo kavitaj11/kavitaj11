@@ -100,7 +100,7 @@ Banking • Healthcare Insurance (ORMB & EDI workflows) • Financial Trading �
 ## Connect
 
 - 🌐 K11 Software Solutions: https://k11softwaresolutions.com  
-- 🧪 GitHub: https://github.com/kavitaj11  
+- GitHub: https://github.com/kavitaj11  
 
 ---
 
