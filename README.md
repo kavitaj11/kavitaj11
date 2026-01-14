@@ -23,7 +23,7 @@ I design and build evaluation and automation systems that move beyond *“does i
   *Promptfoo-based AI assurance suite for LLM evaluation, regression testing, red-teaming scenarios, and audit-ready reporting.*
 
 ### Enterprise Test Automation Frameworks
-- **K11 TechLab — Selenium + Java Full-Stack Framework (AI-assisted)**  
+- **K11 Tech Lab — Selenium + Java Full-Stack Framework (AI-assisted)**  
   🔗 https://github.com/K11-Software-Solutions/k11TechLab-selenium-java-fullstack-framework  
   *Enterprise automation framework emphasizing modular design, reporting, and repeatable execution—extended with AI-assisted testing and AI integration patterns (prompt-driven test generation, self-healing strategies, and evaluation hooks for AI/LLM-enabled workflows).*
 
