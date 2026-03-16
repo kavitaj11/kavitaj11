@@ -37,7 +37,7 @@ I design and build evaluation and automation systems that move beyond *“does i
 
 - **K11 Tech Lab — Vibium + Jest + AI-Augmented Test Framework**
   🔗 https://github.com/K11-Software-Solutions/k11TechLab-vibium-jest-ai-test-framework
-  *Production-style automation framework built with Vibium, Jest, and TypeScript, combining smoke, functional, API, DB, device, E2E, and Lighthouse testing with timestamped reporting, AI-assisted test generation, and AI agent + MCP browser automation workflows.
+  *Production-style automation framework built with Vibium, Jest, and TypeScript, combining smoke, functional, API, DB, device, E2E, and Lighthouse testing with timestamped reporting, AI-assisted test generation, and AI agent + MCP browser automation workflows.*
 
 
 
