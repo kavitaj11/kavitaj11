@@ -23,21 +23,31 @@ I design and build evaluation and automation systems that move beyond *“does i
   *Promptfoo-based AI assurance suite for LLM evaluation, regression testing, red-teaming scenarios, and audit-ready reporting.*
 
 ### Enterprise Test Automation Frameworks
+
+- **K11 Tech Lab — Vibium + Jest + AI-Augmented Test Framework**  
+  🔗 https://github.com/K11-Software-Solutions/k11TechLab-vibium-jest-ai-test-framework  
+  *Production-style automation framework built with Vibium, Jest, and TypeScript, combining smoke, functional, API, DB, device, E2E, and Lighthouse testing with timestamped reporting, AI-assisted test generation, and AI agent + MCP browser automation workflows.*
+
+- **K11 Tech Lab — Playwright + TypeScript AI-Augmented Framework**  
+  🔗 https://github.com/K11-Software-Solutions/K11TechLab-playwright-typescript-ai-augmented-framework  
+  *Production-oriented Playwright + TypeScript automation framework with reusable components, scalable test design, stronger type-safe structure, and AI-augmented testing patterns for practical browser automation and future LLM/MCP-driven extensions.*
+
+- **K11 Tech Lab — Playwright + JavaScript AI-Augmented Framework**  
+  🔗 https://github.com/K11-Software-Solutions/K11TechLab-playwright-javascript-ai-augmented-framework  
+  *Production-oriented Playwright + JavaScript automation framework with reusable components, scalable test design, and AI-augmented testing patterns for practical browser automation and future LLM/MCP-driven extensions.*
+
 - **K11 TechLab — Playwright + Python AI-Assisted Automation Framework**  
   🔗 https://github.com/K11-Software-Solutions/k11techlab-playwright-python-ai-assisted-framework  
   *Modern Playwright + PyTest automation framework with reusable fixtures, scalable structure, and AI-assisted testing patterns (prompt-driven test generation, resilient execution hooks, and extensibility for LLM/MCP-based workflows).*
+
+- **K11 Tech Lab — Cucumber BDD + Java Full-Stack Framework**  
+  🔗 https://github.com/K11-Software-Solutions/k11TechLab-cucumber-bdd-java-fullstack-framework  
+  *BDD framework for scalable automation across UI + API + Mobile workflows, built for CI/CD and long-term maintainability.*  
 
 - **K11 Tech Lab — Selenium + Java Full-Stack Framework (AI-assisted)**  
   🔗 https://github.com/K11-Software-Solutions/k11TechLab-selenium-java-fullstack-framework  
   *Enterprise automation framework emphasizing modular design, reporting, and repeatable execution—extended with AI-assisted testing and AI integration patterns (prompt-driven test generation, self-healing strategies, and evaluation hooks for AI/LLM-enabled workflows).*
 
-- **K11 Tech Lab — Cucumber BDD + Java Full-Stack Framework**  
-  🔗 https://github.com/K11-Software-Solutions/k11TechLab-cucumber-bdd-java-fullstack-framework  
-  *BDD framework for scalable automation across UI + API + Mobile workflows, built for CI/CD and long-term maintainability.*
-
-- **K11 Tech Lab — Vibium + Jest + AI-Augmented Test Framework** 
-  🔗 https://github.com/K11-Software-Solutions/k11TechLab-vibium-jest-ai-test-framework
-  *Production-style automation framework built with Vibium, Jest, and TypeScript, combining smoke, functional, API, DB, device, E2E, and Lighthouse testing with timestamped reporting, AI-assisted test generation, and AI agent + MCP browser automation workflows.*
 
 
 
