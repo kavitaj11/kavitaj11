@@ -23,15 +23,15 @@ I design and build evaluation and automation systems that move beyond *“does i
   *Promptfoo-based AI assurance suite for LLM evaluation, regression testing, red-teaming scenarios, and audit-ready reporting.*
 
 - **LLM Eval Agent — GitHub App**  
-  [![LLM Eval Agent](llm_eval_agent_logo.png)](https://github.com/K11-Software-Solutions/llm-eval-agent-app)  
   🔗 https://github.com/K11-Software-Solutions/llm-eval-agent-app  
+  [![LLM Eval Agent](llm_eval_agent_logo.png)](https://github.com/K11-Software-Solutions/llm-eval-agent-app)  
   *Automated bias, fairness, and robustness evaluation as a GitHub App — triggers on every PR, posts a Check Run scorecard, and enforces evaluation gates in CI/CD pipelines.*
 
 ### Enterprise Test Automation Frameworks
 
 - **Adaptive Test Intelligence (ATI)**  
-  [![Adaptive Test Intelligence](ATI_logo.png)](https://github.com/K11-Software-Solutions/adaptive-test-intelligence)  
-  🔗 https://github.com/K11-Software-Solutions/adaptive-test-intelligence
+  🔗 https://github.com/K11-Software-Solutions/adaptive-test-intelligence  
+  [![Adaptive Test Intelligence](ATI_logo.png)](https://github.com/K11-Software-Solutions/adaptive-test-intelligence)
 
 - **K11 Tech Lab — Vibium + Jest + AI-Augmented Test Framework**  
   🔗 https://github.com/K11-Software-Solutions/k11TechLab-vibium-jest-ai-test-framework  
