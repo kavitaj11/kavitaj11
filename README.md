@@ -30,7 +30,8 @@ I design and build evaluation and automation systems that move beyond *“does i
 ### Enterprise Test Automation Frameworks
 
 - **Adaptive Test Intelligence (ATI)**  
-  🔗 https://github.com/K11-Software-Solutions/adaptive-test-intelligence  
+  🔗 https://github.com/K11-Software-Solutions/adaptive-test-intelligence
+
   [![Adaptive Test Intelligence](ATI_logo.png)](https://github.com/K11-Software-Solutions/adaptive-test-intelligence)
 
 - **K11 Tech Lab — Vibium + Jest + AI-Augmented Test Framework**  
