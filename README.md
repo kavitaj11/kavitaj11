@@ -23,7 +23,7 @@ I design and build evaluation and automation systems that move beyond *“does i
   *Promptfoo-based AI assurance suite for LLM evaluation, regression testing, red-teaming scenarios, and audit-ready reporting.*
 
 - **LLM Eval Agent — GitHub App**  
-  <img src="llm_eval_agent_logo.png" width="120"/>  
+  [![LLM Eval Agent](llm_eval_agent_logo.png)](https://github.com/K11-Software-Solutions/llm-eval-agent-app)  
   🔗 https://github.com/K11-Software-Solutions/llm-eval-agent-app  
   *Automated bias, fairness, and robustness evaluation as a GitHub App — triggers on every PR, posts a Check Run scorecard, and enforces evaluation gates in CI/CD pipelines.*
 
