@@ -24,7 +24,7 @@ I design and build evaluation and automation systems that move beyond *“does i
 
 - **LLM Eval Agent — GitHub App**  
   🔗 https://github.com/K11-Software-Solutions/llm-eval-agent-app  
-  [![LLM Eval Agent](llm_eval_agent_logo.png)](https://github.com/K11-Software-Solutions/llm-eval-agent-app)  
+  [![LLM Eval Agent](LLM_Eval_Agent.png)](https://github.com/K11-Software-Solutions/llm-eval-agent-app)  
   *Automated bias, fairness, and robustness evaluation as a GitHub App — triggers on every PR, posts a Check Run scorecard, and enforces evaluation gates in CI/CD pipelines.*
 
 ### Enterprise Test Automation Frameworks
