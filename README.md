@@ -20,7 +20,7 @@ I build tools that make AI systems **testable, measurable and auditable**, and I
 
 ## 🚀 Now shipping: MCP servers for QA teams
 
-Give Claude (or any MCP client) testing tools that check their work against the real system and leave evidence a reviewer can follow. All five are free, MIT licensed and listed in the official [MCP Registry](https://registry.modelcontextprotocol.io).
+Give Claude (or any MCP client) testing tools that check their work against the real system and leave evidence a reviewer can follow. All six are free, MIT licensed and listed in the official [MCP Registry](https://registry.modelcontextprotocol.io).
 
 | | What it does | Install |
 |---|---|---|
@@ -29,6 +29,7 @@ Give Claude (or any MCP client) testing tools that check their work against the 
 | **[k11 API Contract QA](https://github.com/K11-Software-Solutions/k11techlab-api-contract-qa-mcp)** | Which services an API change breaks before merge, and why, for OpenAPI, Swagger, GraphQL, gRPC, AsyncAPI and SOAP; drift checks against deployed services; a verdict on every pull request. | [![PyPI](https://img.shields.io/pypi/v/k11-api-contract-qa-mcp?label=PyPI)](https://pypi.org/project/k11-api-contract-qa-mcp/) |
 | **[k11 API Functional QA](https://github.com/K11-Software-Solutions/k11techlab-api-functional-qa-mcp)** | Functional API tests from user stories, with database checks and negative tests generated from the spec; guardrails keep it away from production data. | [![PyPI](https://img.shields.io/pypi/v/k11-api-functional-qa-mcp?label=PyPI)](https://pypi.org/project/k11-api-functional-qa-mcp/) |
 | **[LLM Assure](https://github.com/K11-Software-Solutions/k11techlab-llm-assurance-toolkit)** | Red-teams chatbots, RAG apps and agents: 41 OWASP LLM Top 10 probes, adaptive attacks driven by Claude, a CI gate and an audit-ready report. | [![PyPI](https://img.shields.io/pypi/v/k11-llm-assure-mcp?label=PyPI)](https://pypi.org/project/k11-llm-assure-mcp/) |
+| **[k11 Release Gate](https://github.com/K11-Software-Solutions/k11techlab-release-gate-mcp)** | One release decision from all the evidence above under a written policy: ship, ship with conditions, needs a named person, or block, with an audit trail. | [![PyPI](https://img.shields.io/pypi/v/k11-release-gate-mcp?label=PyPI)](https://pypi.org/project/k11-release-gate-mcp/) |
 
 ## 🧭 Learn AI quality engineering: 10 open labs
 
