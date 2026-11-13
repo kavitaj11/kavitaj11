@@ -1,138 +1,101 @@
-![Developer × Researcher: Building production-grade AI Assurance](assets/gitprofile_banner.png)
+<div align="center">
 
-# Kavita Jadhav
+![Kavita Jadhav: Developer × Researcher, building production-grade AI assurance](assets/gitprofile_banner.png)
 
-**Trustworthy AI • LLM Testing • Full-Stack Automation**
+### AI Quality Engineer · Senior SDET · Researcher in AI assurance
 
-I am an **AI Developer and Test Engineer (12+ years)** working at the intersection of **software engineering** and **AI assurance**. My research-oriented work focuses on converting probabilistic model behavior into **repeatable experiments** and **measurable evidence**—so AI-enabled systems remain **reliable under change** and **auditable in production**.
+I build tools that make AI systems **testable, measurable and auditable**, and I publish the research behind them.<br>
+12+ years of test automation for VMware, E\*TRADE / Morgan Stanley, Verizon, Delta Dental and Wells Fargo.
 
-I design and build evaluation and automation systems that move beyond *“does it work?”* to answer: **is it safe, stable, and defensible under real-world conditions?**
+[![Follow](https://img.shields.io/github/followers/kavitaj11?label=Follow&style=social)](https://github.com/kavitaj11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kavita%20Jadhav-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavita-jadhav-tech/)
+[![Website](https://img.shields.io/badge/Web-k11softwaresolutions.com-0f172a)](https://k11softwaresolutions.com/)
+[![dev.to](https://img.shields.io/badge/dev.to-kavitaj11-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/kavitaj11)
+[![Consulting](https://img.shields.io/badge/Available%20for-consulting-2dd4bf)](https://k11softwaresolutions.com/contact)
 
-
----
-
-## Start here (research + build artifacts)
-
-### LLM Assurance & Evaluation
-- **LLM Testing Hub**  
-  🔗 https://github.com/K11-Software-Solutions/llm-testing-hub  
-  *A research hub for LLM assurance—evaluation harnesses, regression suites, red-teaming scenarios, and reliability scorecards for repeatable, audit-ready testing.*
-
-- **AI Assurance (Promptfoo)**  
-  🔗 https://github.com/kavitaj11/weoptimize.ai_assurance_promptfoo  
-  *Promptfoo-based AI assurance suite for LLM evaluation, regression testing, red-teaming scenarios, and audit-ready reporting.*
-
-- **LLM Eval Agent — GitHub App**  
-  🔗 https://github.com/K11-Software-Solutions/llm-eval-agent-app  
-  [![LLM Eval Agent](LLM_Eval_Agent.png)](https://github.com/K11-Software-Solutions/llm-eval-agent-app)  
-  *Automated bias, fairness, and robustness evaluation as a GitHub App — triggers on every PR, posts a Check Run scorecard, and enforces evaluation gates in CI/CD pipelines.*
-
-### Enterprise Test Automation Frameworks
-
-- **Adaptive Test Intelligence (ATI)**  
-  🔗 https://github.com/K11-Software-Solutions/adaptive-test-intelligence
-
-  [![Adaptive Test Intelligence](ATI_logo.png)](https://github.com/K11-Software-Solutions/adaptive-test-intelligence)
-
-- **K11 Tech Lab — Vibium + Jest + AI-Augmented Test Framework**  
-  🔗 https://github.com/K11-Software-Solutions/k11TechLab-vibium-jest-ai-test-framework  
-  *Production-style automation framework built with Vibium, Jest, and TypeScript, combining smoke, functional, API, DB, device, E2E, and Lighthouse testing with timestamped reporting, AI-assisted test generation, and AI agent + MCP browser automation workflows.*
-
-- **K11 Tech Lab — Playwright + TypeScript AI-Augmented Framework**  
-  🔗 https://github.com/K11-Software-Solutions/K11TechLab-playwright-typescript-ai-augmented-framework  
-  *Production-oriented Playwright + TypeScript automation framework with reusable components, scalable test design, stronger type-safe structure, and AI-augmented testing patterns for practical browser automation and future LLM/MCP-driven extensions.*
-
-- **K11 Tech Lab — Playwright + JavaScript AI-Augmented Framework**  
-  🔗 https://github.com/K11-Software-Solutions/K11TechLab-playwright-javascript-ai-augmented-framework  
-  *Production-oriented Playwright + JavaScript automation framework with reusable components, scalable test design, and AI-augmented testing patterns for practical browser automation and future LLM/MCP-driven extensions.*
-
-- **K11 TechLab — Playwright + Python AI-Assisted Automation Framework**  
-  🔗 https://github.com/K11-Software-Solutions/k11techlab-playwright-python-ai-assisted-framework  
-  *Modern Playwright + PyTest automation framework with reusable fixtures, scalable structure, and AI-assisted testing patterns (prompt-driven test generation, resilient execution hooks, and extensibility for LLM/MCP-based workflows).*
-
-- **K11 Tech Lab — Cucumber BDD + Java Full-Stack Framework**  
-  🔗 https://github.com/K11-Software-Solutions/k11TechLab-cucumber-bdd-java-fullstack-framework  
-  *BDD framework for scalable automation across UI + API + Mobile workflows, built for CI/CD and long-term maintainability.*  
-
-- **K11 Tech Lab — Selenium + Java Full-Stack Framework (AI-assisted)**  
-  🔗 https://github.com/K11-Software-Solutions/k11TechLab-selenium-java-fullstack-framework  
-  *Enterprise automation framework emphasizing modular design, reporting, and repeatable execution—extended with AI-assisted testing and AI integration patterns (prompt-driven test generation, self-healing strategies, and evaluation hooks for AI/LLM-enabled workflows).*
-
-
-
-
-### Full-Stack Engineering (portfolio)
-- **Kavita Jadhav — AI Developer Portfolio (Gemini + Cloud Run)**  
-  🔗 https://github.com/kavitaj11/kavita-jadhav-ai-developer-portfolio  
-  *AI-powered portfolio showcasing full-stack engineering with a Gemini-backed chat experience, secure key handling via backend proxy, Dockerized deployment, and Google Cloud Run production hosting.*  
-  *Walkthrough:* https://dev.to/kavitaj11/ai-powered-portfolio-full-stack-developer-showcase-with-google-gemini-cloud-run-2aaj
-
-- **Full-Stack Developer Capstone**  
-  🔗 https://github.com/kavitaj11/xrwvm-fullstack_developer_capstone  
-  *End-to-end full-stack delivery demonstrating application development, API integration, and deployment-ready structure.*
-
-- **Apollonia Dental Practice — Employee Management CRUD Web App**  
-  🔗 https://github.com/kavitaj11/apollonia-dental-practice-employee-management-system-CRUD-web-app  
-  *Full-stack CRUD application demonstrating end-to-end delivery.*
-
-- **Greenspot Grocer — Relational Database Transformation Project**  
-  🔗 https://github.com/kavitaj11/greenspot-grocery-portfolio-database-project  
-  *Data modeling, normalization, and scalable database design from flat datasets.*
-
-- **Rumi Press — Book Distribution Expense Tracker (Django)**  
-  🔗 https://github.com/kavitaj11/django_based_rumi_press_book_distribution_expense_tracker  
-  *Django-based expense tracking app for book distribution workflows, supporting structured record management, reporting-friendly data organization, and deployment-ready project setup.*
-
-
-- **Euro Orbit Travel Agency — 7-Day Weather Forecast App**  
-  🔗 https://github.com/kavitaj11/euro-orbit-travel-agency-7-day-weather-forecast-app  
-  *Weather forecast application providing a 7-day view with API-driven data fetching, user-friendly UI, and deployment-ready structure.*
+</div>
 
 ---
 
-## Research interests
+## 🚀 Now shipping: MCP servers for QA teams
 
-My current interests focus on **reliability, safety, and governance-aligned evaluation** for LLM-enabled systems:
+Give Claude (or any MCP client) testing tools that check their work against the real system and leave evidence a reviewer can follow. All three are free, MIT licensed and listed in the official [MCP Registry](https://registry.modelcontextprotocol.io).
 
-- **LLM evaluation methodology & benchmarking**
-  - Reproducible harness design, multi-model comparisons, metric selection, regression protocols  
-- **Failure mode characterization**
-  - Hallucination patterns, prompt sensitivity, bias/fairness gaps, context-window limits, behavioral drift  
-- **Adversarial testing & red teaming**
-  - Prompt injection, jailbreak resilience, adversarial formatting/obfuscation, privacy/PII leakage, unsafe content pathways  
-- **Robustness & production monitoring**
-  - Drift detection signals, stability under distribution shift, reliability scorecards, audit-friendly evidence trails  
-- **Evaluation in CI/CD**
-  - Automated quality gates, traceable results, compliance-aligned test suites, reproducible reporting  
-- **AI integration in legacy test automation frameworks**
-  - Adding AI-assisted capabilities to existing Selenium/BDD/API frameworks (test generation, self-healing, intelligent assertions, flaky-test reduction) while maintaining determinism, traceability, and maintainable architecture  
-- **AI application development & end-to-end validation**
-  - Building and testing AI-enabled applications (RAG, agents/tool use, MCP-based integrations), with emphasis on observability, data/privacy controls, and evaluation-driven development
-  
+| | What it does | Install |
+|---|---|---|
+| **[k11 Playwright QA](https://github.com/K11-Software-Solutions/k11techlab-playwright-qa-mcp)** | User stories to Playwright tests with verified locators. Self-healing with confidence, reasons and the runner-up; `heal-ci` opens a pull request with an audit report. | [![npm](https://img.shields.io/npm/v/k11-playwright-qa-mcp?label=npm)](https://www.npmjs.com/package/k11-playwright-qa-mcp) |
+| **[k11 Selenium QA](https://github.com/K11-Software-Solutions/k11techlab-selenium-qa-mcp)** | The same for Selenium in Python and Java, fixing Page Objects and `@FindBy` where they live, and reverting any fix that doesn't pass. | [![PyPI](https://img.shields.io/pypi/v/k11-selenium-qa-mcp?label=PyPI)](https://pypi.org/project/k11-selenium-qa-mcp/) |
+| **[LLM Assure](https://github.com/K11-Software-Solutions/k11techlab-llm-assurance-toolkit)** | Red-teams chatbots, RAG apps and agents: 41 OWASP LLM Top 10 probes, adaptive attacks driven by Claude, a CI gate and an audit-ready report. | [![PyPI](https://img.shields.io/pypi/v/k11-llm-assure-mcp?label=PyPI)](https://pypi.org/project/k11-llm-assure-mcp/) |
+
+## 🧭 Learn AI quality engineering: 10 open labs
+
+A free, runnable curriculum for testing AI the way we test software. Every lab runs locally with **no API key** and ends in CI quality gates.
+
+**[Start with the roadmap →](https://github.com/K11-Software-Solutions/becoming-ai-quality-engineer)** · model testing · LLM-judge reliability · data quality · security · agents · multi-agent · MCP supply chain · performance and cost · production monitoring · **[assurance case capstone](https://github.com/K11-Software-Solutions/ai-assurance-case-lab)** (NIST AI RMF, ISO/IEC 42001, EU AI Act)
+
+All labs: **[K11 Tech Lab on GitHub](https://github.com/K11-Software-Solutions)**
+
+## 📄 Research: Agentic AI Quality Engineering (IJECS, 2026)
+
+A six-paper, peer-reviewed series, with open-source reference code where it applies.
+
+1. [Autonomous CI/CD Quality Assurance Using LangGraph Multi-Agent Orchestration and Risk-Proportionate Human-in-the-Loop Control](https://doi.org/10.18535/ijecs/v15i06.5563) · [code](https://github.com/K11-Software-Solutions/k11techlab-agentic-ai-qa-system)
+2. [LLM Safety as a Quality Gate: Bias, Fairness and Robustness Evaluation in CI/CD via GitHub Apps](https://doi.org/10.18535/ijecs.v15i07.5576) · [code](https://github.com/K11-Software-Solutions/llm-eval-agent-app)
+3. [Beyond Static Gates: Closing the Detect–Fix–Learn Loop in Agentic CI/CD Quality Assurance](https://doi.org/10.18535/ijecs.v15i07.5577)
+4. [Cross-Repository Contract Testing and Change Impact Analysis in Microservice CI/CD](https://doi.org/10.18535/ijecs.v15i07.5599) · [code](https://github.com/K11-Software-Solutions/k11techlab-microservice-qa-system)
+5. [Beyond Binary Verdicts: Aleatoric Uncertainty Quantification in Agentic CI/CD Quality Pipelines](https://doi.org/10.18535/ijecs.v15i07.5614)
+6. [Beyond a Single Threshold: Uncertainty Source Classification and Type-Stratified Conformal Prediction for Agentic CI/CD](https://doi.org/10.18535/ijecs.v15i08.5684)
+
+## 🧪 Test automation frameworks
+
+Production-style starters with page objects, CI pipelines, reporting and AI-assisted test generation:
+[Playwright + Python](https://github.com/K11-Software-Solutions/k11techlab-playwright-python-ai-assisted-framework) ·
+[Playwright + TypeScript](https://github.com/K11-Software-Solutions/K11TechLab-playwright-typescript-ai-augmented-framework) ·
+[Playwright + JavaScript](https://github.com/K11-Software-Solutions/K11TechLab-playwright-javascript-ai-augmented-framework) ·
+[Selenium + Java](https://github.com/K11-Software-Solutions/k11TechLab-selenium-java-fullstack-framework) ·
+[Cucumber BDD + Java](https://github.com/K11-Software-Solutions/k11TechLab-cucumber-bdd-java-fullstack-framework) ·
+[Serenity Screenplay](https://github.com/K11-Software-Solutions/k11TechLab-serenity-screenplay-framework) ·
+[Vibium + Jest](https://github.com/K11-Software-Solutions/k11TechLab-vibium-jest-ai-test-framework) ·
+[Adaptive Test Intelligence](https://github.com/K11-Software-Solutions/adaptive-test-intelligence)
+
+## 🛠️ Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20%2B%20MCP-D97757?logo=anthropic&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
+
+<details>
+<summary><b>Full-stack portfolio projects</b></summary>
+
+- [AI developer portfolio (Gemini + Cloud Run)](https://github.com/kavitaj11/kavita-jadhav-ai-developer-portfolio): Gemini-backed chat behind a secure backend proxy, Dockerized and deployed on Cloud Run ([walkthrough](https://dev.to/kavitaj11/ai-powered-portfolio-full-stack-developer-showcase-with-google-gemini-cloud-run-2aaj))
+- [AI assurance with Promptfoo](https://github.com/kavitaj11/weoptimize.ai_assurance_promptfoo): LLM evaluation, regression testing and red-teaming scenarios
+- [LLM Testing Hub](https://github.com/K11-Software-Solutions/llm-testing-hub): prompt regression, red-teaming and risk audits with Promptfoo, LangTest and DeepEval
+- [Full-stack developer capstone](https://github.com/kavitaj11/xrwvm-fullstack_developer_capstone)
+- [Apollonia Dental: employee management CRUD app](https://github.com/kavitaj11/apollonia-dental-practice-employee-management-system-CRUD-web-app)
+- [Greenspot Grocer: relational database redesign](https://github.com/kavitaj11/greenspot-grocery-portfolio-database-project)
+- [Rumi Press: Django expense tracker](https://github.com/kavitaj11/django_based_rumi_press_book_distribution_expense_tracker)
+- [Euro Orbit: 7-day weather forecast app](https://github.com/kavitaj11/euro-orbit-travel-agency-7-day-weather-forecast-app)
+
+</details>
 
 ---
 
-## What I build
+## 📬 Stay in the loop
 
-- **Evaluation harnesses** and test suites for accuracy, faithfulness, safety, and compliance  
-- **Full-stack validation** across UI + API + DB integrated into CI/CD pipelines  
-- **Reliability artifacts**: scorecards, benchmark runs, failure-mode matrices, audit-friendly reporting  
-- Frameworks that prioritize **testability-by-design** and production realism
+- **[Trustworthy AI Engineering](https://www.linkedin.com/newsletters/trustworthy-ai-engineering-7521267953363832832/)**: practical AI assurance, every two weeks
+- **[SDET Insights](https://www.linkedin.com/newsletters/sdet-insights-7354009267919613954/)**: test automation, weekly
+- **Work with me:** adoption help for these tools, team workshops and custom MCP servers at **[k11softwaresolutions.com](https://k11softwaresolutions.com/contact)**
 
----
+<div align="center">
 
-## Domains
+**If something here saved you time, follow me and star the repo. It helps other engineers find it.**
 
-Banking • Healthcare Insurance (ORMB & EDI workflows) • Financial Trading • SaaS Subscription Commerce (Offer-to-Cash) • iEN Infrastructure Service Assurance
-
----
-
-## Connect
-
-- 🌐 K11 Software Solutions: https://k11softwaresolutions.com  
-- GitHub: https://github.com/kavitaj11  
-
----
-
-### Topics
-`llm-testing` `ai-assurance` `red-teaming` `prompt-injection` `jailbreaks` `evaluation` `test-automation` `full-stack` `ci-cd` `quality-engineering` `trustworthy-ai`
+</div>
