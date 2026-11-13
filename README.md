@@ -31,6 +31,8 @@ Give Claude (or any MCP client) testing tools that check their work against the 
 | **[LLM Assure](https://github.com/K11-Software-Solutions/k11techlab-llm-assurance-toolkit)** | Red-teams chatbots, RAG apps and agents: 41 OWASP LLM Top 10 probes, adaptive attacks driven by Claude, a CI gate and an audit-ready report. | [![PyPI](https://img.shields.io/pypi/v/k11-llm-assure-mcp?label=PyPI)](https://pypi.org/project/k11-llm-assure-mcp/) |
 | **[k11 Release Gate](https://github.com/K11-Software-Solutions/k11techlab-release-gate-mcp)** | One release decision from all the evidence above under a written policy: ship, ship with conditions, needs a named person, or block, with an audit trail. | [![PyPI](https://img.shields.io/pypi/v/k11-release-gate-mcp?label=PyPI)](https://pypi.org/project/k11-release-gate-mcp/) |
 
+**And the agent that ties them together:** the **[k11 Release Readiness Agent](https://github.com/K11-Software-Solutions/k11techlab-release-readiness-agent)**, a Claude Code plugin. Ask *can we ship this branch?* and it plans the checks the change needs, gathers the evidence with the servers above, and returns a deterministic verdict (ship, ship with conditions, needs a person, or block) you can defend in an audit.
+
 ## 🧭 Learn AI quality engineering: 10 open labs
 
 A free, runnable curriculum for testing AI the way we test software. Every lab runs locally with **no API key** and ends in CI quality gates.
