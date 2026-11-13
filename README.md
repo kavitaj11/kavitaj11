@@ -20,12 +20,13 @@ I build tools that make AI systems **testable, measurable and auditable**, and I
 
 ## 🚀 Now shipping: MCP servers for QA teams
 
-Give Claude (or any MCP client) testing tools that check their work against the real system and leave evidence a reviewer can follow. All three are free, MIT licensed and listed in the official [MCP Registry](https://registry.modelcontextprotocol.io).
+Give Claude (or any MCP client) testing tools that check their work against the real system and leave evidence a reviewer can follow. All four are free, MIT licensed and listed in the official [MCP Registry](https://registry.modelcontextprotocol.io).
 
 | | What it does | Install |
 |---|---|---|
 | **[k11 Playwright QA](https://github.com/K11-Software-Solutions/k11techlab-playwright-qa-mcp)** | User stories to Playwright tests with verified locators. Self-healing with confidence, reasons and the runner-up; `heal-ci` opens a pull request with an audit report. | [![npm](https://img.shields.io/npm/v/k11-playwright-qa-mcp?label=npm)](https://www.npmjs.com/package/k11-playwright-qa-mcp) |
 | **[k11 Selenium QA](https://github.com/K11-Software-Solutions/k11techlab-selenium-qa-mcp)** | The same for Selenium in Python and Java, fixing Page Objects and `@FindBy` where they live, and reverting any fix that doesn't pass. | [![PyPI](https://img.shields.io/pypi/v/k11-selenium-qa-mcp?label=PyPI)](https://pypi.org/project/k11-selenium-qa-mcp/) |
+| **[k11 API Contract QA](https://github.com/K11-Software-Solutions/k11techlab-api-contract-qa-mcp)** | Which services an API change breaks before merge, and why, for OpenAPI, Swagger, GraphQL, gRPC, AsyncAPI and SOAP; drift checks against deployed services; a verdict on every pull request. | [![PyPI](https://img.shields.io/pypi/v/k11-api-contract-qa-mcp?label=PyPI)](https://pypi.org/project/k11-api-contract-qa-mcp/) |
 | **[LLM Assure](https://github.com/K11-Software-Solutions/k11techlab-llm-assurance-toolkit)** | Red-teams chatbots, RAG apps and agents: 41 OWASP LLM Top 10 probes, adaptive attacks driven by Claude, a CI gate and an audit-ready report. | [![PyPI](https://img.shields.io/pypi/v/k11-llm-assure-mcp?label=PyPI)](https://pypi.org/project/k11-llm-assure-mcp/) |
 
 ## 🧭 Learn AI quality engineering: 10 open labs
