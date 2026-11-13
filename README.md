@@ -11,6 +11,7 @@ I build tools that make AI systems **testable, measurable and auditable**, and I
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kavita%20Jadhav-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavita-jadhav-tech/)
 [![Website](https://img.shields.io/badge/Web-k11softwaresolutions.com-0f172a)](https://k11softwaresolutions.com/)
 [![dev.to](https://img.shields.io/badge/dev.to-kavitaj11-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/kavitaj11)
+[![Books on Leanpub](https://img.shields.io/badge/Books-Leanpub-1C1C1C?logo=leanpub&logoColor=white)](https://leanpub.com/u/kavita-jadhav-tech)
 [![Consulting](https://img.shields.io/badge/Available%20for-consulting-2dd4bf)](https://k11softwaresolutions.com/contact)
 
 </div>
