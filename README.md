@@ -37,7 +37,7 @@ Give Claude (or any MCP client) testing tools that check their work against the 
 
 **And the agent that ties them together:** the **[k11 Release Readiness Agent](https://github.com/K11-Software-Solutions/k11techlab-release-readiness-agent)**, a Claude Code plugin. Ask *can we ship this branch?* and it plans the checks the change needs, gathers the evidence with the servers above, and returns a deterministic verdict (ship, ship with conditions, needs a person, or block) you can defend in an audit.
 
-**And in CI:** the **[k11 Release Gate Action](https://github.com/K11-Software-Solutions/k11techlab-release-gate-action)** posts that verdict on every pull request with one line: `uses: K11-Software-Solutions/k11techlab-release-gate-action@v1`.
+**And in CI:** the **[k11 Release Gate Action](https://github.com/K11-Software-Solutions/k11techlab-release-gate-action)** posts that verdict on every pull request with one line: `uses: K11-Software-Solutions/k11techlab-release-gate-action@v1`. [See it decide on a live demo](https://github.com/K11-Software-Solutions/k11techlab-release-gate-demo).
 
 ## 🧭 Learn AI quality engineering: 10 open labs
 
