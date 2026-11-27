@@ -5,7 +5,7 @@
 ### AI Quality Engineer · Senior SDET · Researcher in AI assurance
 
 I build tools that make AI systems **testable, measurable and auditable**, and I publish the research behind them.<br>
-12+ years of test automation for VMware, E\*TRADE / Morgan Stanley, Verizon, Delta Dental and Wells Fargo.
+11+ years of test automation for VMware, E\*TRADE / Morgan Stanley, Verizon, Delta Dental and Wells Fargo.
 
 [![Follow](https://img.shields.io/github/followers/kavitaj11?label=Follow&style=social)](https://github.com/kavitaj11)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kavita%20Jadhav-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavita-jadhav-tech/)
@@ -15,6 +15,8 @@ I build tools that make AI systems **testable, measurable and auditable**, and I
 [![Consulting](https://img.shields.io/badge/Available%20for-consulting-2dd4bf)](https://k11softwaresolutions.com/contact)
 
 </div>
+
+> 🌟 **Finalist, Women in Tech & AI Global Awards 2026:** Female Founder Rising Star (Cybersecurity, Responsible AI & Developer Assurance), for building release decision intelligence at K11. [See my nominee page](https://www.womentech.net/nominee/all/all/172123): sharing it counts as a vote.
 
 ---
 
